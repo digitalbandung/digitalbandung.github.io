@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aktivitas UMKM dan Visibilitas Digital Bandung</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <section>
+    <h1>Aktivitas UMKM sebagai Fondasi Visibilitas Digital di Bandung</h1>
+    <p>
+      Dalam perkembangan digital saat ini, visibilitas sebuah bisnis tidak hanya ditentukan oleh tampilan promosi,
+      tetapi oleh aktivitas nyata yang berlangsung secara langsung di lapangan. Bagi UMKM di Bandung, aktivitas harian
+      menjadi elemen penting yang membentuk kehadiran digital secara lebih kontekstual.
+    </p>
+  </section>
+
+  <section>
+    <h2>Aktivitas sebagai Representasi Bisnis</h2>
+    <p>
+      Aktivitas operasional seperti produksi, pelayanan, dan interaksi di lokasi bisnis menciptakan gambaran nyata
+      tentang bagaimana sebuah usaha berjalan. Hal ini memberikan representasi yang lebih autentik dibandingkan
+      konten yang hanya bersifat visual tanpa konteks aktivitas.
+    </p>
+  </section>
+
+  <section>
+    <h2>Keterhubungan Aktivitas dengan Konten Digital</h2>
+    <p>
+      Aktivitas yang berlangsung di lapangan dapat dikembangkan menjadi konten visual seperti foto dan video.
+      Konten ini tidak hanya berfungsi sebagai dokumentasi, tetapi juga sebagai media yang menghubungkan bisnis
+      dengan audiens secara lebih nyata.
+    </p>
+    <p>
+      Aktivitas ini juga berkaitan dengan <a href="interaksi-pelanggan.html">interaksi pelanggan</a>
+      yang memperkuat kepercayaan terhadap bisnis.
+    </p>
+  </section>
+
+  <section>
+    <h2>Peran Aktivitas dalam Visibilitas Google</h2>
+    <p>
+      Dalam ekosistem digital seperti Google Maps, aktivitas bisnis yang terdokumentasi membantu meningkatkan
+      relevansi dan kehadiran suatu usaha dalam pencarian. Semakin konsisten aktivitas yang terlihat,
+      semakin kuat pula visibilitas yang terbentuk.
+    </p>
+    <p>
+      Hal ini juga terhubung dengan <a href="dokumentasi-lokasi.html">dokumentasi lokasi</a>
+      yang memperjelas keberadaan bisnis secara fisik.
+    </p>
+  </section>
+
+  <section>
+    <h2>Keterkaitan dengan Kredibilitas Digital</h2>
+    <p>
+      Aktivitas yang terlihat secara konsisten tidak hanya meningkatkan visibilitas, tetapi juga membangun kredibilitas.
+      Bisnis yang aktif dan dapat diamati secara nyata cenderung lebih dipercaya oleh pelanggan.
+    </p>
+    <p>
+      Pembahasan lebih luas dapat dilihat pada artikel utama tentang
+      <a href="kredibilitas-visibilitas-digital-umkm-bandung.html">kredibilitas dan visibilitas digital UMKM</a>.
+    </p>
+  </section>
+
+  <section>
+    <h2>Kesimpulan</h2>
+    <p>
+      Aktivitas UMKM bukan hanya bagian dari operasional, tetapi juga fondasi dalam membangun visibilitas digital.
+      Dengan menghubungkan aktivitas nyata ke dalam ekosistem digital, bisnis dapat menciptakan kehadiran yang lebih kuat,
+      relevan, dan dapat dipercaya.
+    </p>
+  </section>
+
+</div>
+
+</body>
+</html>
