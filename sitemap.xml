@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- HOME -->
+  <url>
+    <loc>https://nexaradigital.com/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ARTIKEL INDEX -->
+  <url>
+    <loc>https://nexaradigital.com/artikel/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ARTIKEL PILAR -->
+  <url>
+    <loc>https://nexaradigital.com/artikel/kredibilitas-visibilitas-digital-umkm-bandung/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ARTIKEL AKTIVITAS -->
+  <url>
+    <loc>https://nexaradigital.com/artikel/aktivitas-umkm-visibilitas-digital-bandung/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ARTIKEL INTERAKSI -->
+  <url>
+    <loc>https://nexaradigital.com/artikel/interaksi-pelanggan-kredibilitas-digital-umkm-bandung/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ARTIKEL LOKASI -->
+  <url>
+    <loc>https://nexaradigital.com/artikel/dokumentasi-lokasi-visibilitas-digital-umkm-bandung/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
