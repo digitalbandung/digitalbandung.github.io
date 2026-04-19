@@ -218,3 +218,18 @@ p {
   border-bottom: 1px solid #38bdf8;
   padding-bottom: 4px;
 }
+
+/* ======================
+   Images
+====================== */
+
+.logo img {
+  height: 40px;
+  width: auto;
+  display: block;
+}
+
+.logo a {
+  display: flex;
+  align-items: center;
+}
