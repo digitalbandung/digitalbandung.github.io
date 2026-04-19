@@ -89,6 +89,10 @@ section {
   color: #94a3b8;
 }
 
+.hero {
+  padding-top: 120px; /* sesuaikan tinggi navbar */
+}
+
 /* ======================
    TEXT
 ====================== */
