@@ -71,6 +71,22 @@
     <lastmod>2026-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
+  </url
+
+    <!-- STRATEGI -->
+  <url>
+    <loc>https://digitalbandung.github.io/artikel/strategi-visibilitas-digital-umkm/</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
   </url>
+
+  <!-- FRAMEWORK G-LOOP -->
+  <url>
+    <loc>https://digitalbandung.github.io/artikel/framework-g-loop-visibility/</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>  
 
 </urlset>
