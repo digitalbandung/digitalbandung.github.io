@@ -49,4 +49,28 @@
     <priority>0.8</priority>
   </url>
 
+    <!-- HUB AKTIVITAS -->
+  <url>
+    <loc>https://digitalbandung.github.io/artikel/aktivitas-umkm/</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- HUB INTERAKSI -->
+  <url>
+    <loc>https://digitalbandung.github.io/artikel/interaksi-pelanggan/</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- HUB LOKASI -->
+  <url>
+    <loc>https://digitalbandung.github.io/artikel/lokasi-bisnis-digital/</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
 </urlset>
