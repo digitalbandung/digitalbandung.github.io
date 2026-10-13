@@ -110,5 +110,13 @@
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>  
+
+
+<url>
+  <loc>https://digitalbandung.github.io/artikel/n2sp-program-visibility-digital-marketing-bandung/</loc>
+  <lastmod>2026-10-13</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
   
 </urlset>
